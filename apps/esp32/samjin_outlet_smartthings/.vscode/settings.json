@@ -1,0 +1,8 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "device_control.h": "c",
+        "caps_switch.h": "c",
+        "caps_energymeter.h": "c"
+    }
+}
